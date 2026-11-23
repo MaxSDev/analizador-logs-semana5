@@ -1,0 +1,12 @@
+{
+  "logs_correctos.txt": "b16e12470460a439e3f364b024ac4a55a79c0dd5c7b17f9b104ea06f5d7ab465",
+  "logs_correctos2.log": "849a286f5689f8efa2e03877f3e5667a0ba0ff8ead1d19b0a30edb0885144edb",
+  "logs_errores.txt": "c1a07e26c8fc42b1e6a5f810fd4ef4b20056f097e313e77c331c3482ddb77071",
+  "logs_errores2.log": "07da6cbb13a554363e7a89a00db65fbba1882ad5b1ea22d398b08e1794fa1106",
+  "test_analizador.py": "5207a259d07bd887c8c67fe5e387e2e6d4ae845ff5c32b4dcaa0713c043b638c",
+  "README.md": "f883f9bb77e040ef186ae8444f0749c9f5254484172c9939f6fdbb6542264e7c",
+  ".gitignore": "a492f8d3a0b8314b7b3d006e806418c53327c952aa4d8cac4fdaac67bcc77986",
+  "evidencias/01-registros-validos.png": "9b6b367043f0b9ad925825f0d8cc4399e1d033f688ff285b08bd468a2c023be1",
+  "evidencias/02-error-detectado.png": "6a731f1004fd984ca99cb009205843c6dcbcda77411ca5a654991edcf213b539",
+  "evidencias/03-error-corregido.png": "262d4edbe891bdd74e6a687223329934d15c8b949ed44480ce818baf8822ef48"
+}

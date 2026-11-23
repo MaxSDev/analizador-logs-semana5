@@ -1,0 +1,28 @@
+test_archivo_inexistente (test_analizador.PruebasAnalizador.test_archivo_inexistente) ... ok
+test_archivo_vacio (test_analizador.PruebasAnalizador.test_archivo_vacio) ... ok
+test_archivos_adicionales (test_analizador.PruebasAnalizador.test_archivos_adicionales) ... ok
+test_archivos_del_usuario (test_analizador.PruebasAnalizador.test_archivos_del_usuario) ... ok
+test_argumento_no_abre_selector_ni_pide_entrada (test_analizador.PruebasAnalizador.test_argumento_no_abre_selector_ni_pide_entrada) ... ok
+test_argumento_no_importa_tkinter (test_analizador.PruebasAnalizador.test_argumento_no_importa_tkinter) ... ok
+test_cancelacion (test_analizador.PruebasAnalizador.test_cancelacion) ... ok
+test_codificacion_invalida (test_analizador.PruebasAnalizador.test_codificacion_invalida) ... ok
+test_consola_sin_entorno_grafico_simulado (test_analizador.PruebasAnalizador.test_consola_sin_entorno_grafico_simulado) ... ok
+test_consola_sin_tkinter (test_analizador.PruebasAnalizador.test_consola_sin_tkinter) ... ok
+test_contadores_y_numeros_de_linea (test_analizador.PruebasAnalizador.test_contadores_y_numeros_de_linea) ... ok
+test_dialogo_y_cierre_auxiliar_simulados (test_analizador.PruebasAnalizador.test_dialogo_y_cierre_auxiliar_simulados) ... ok
+test_etiquetas_en_mensaje_no_son_severidad (test_analizador.PruebasAnalizador.test_etiquetas_en_mensaje_no_son_severidad) ... ok
+test_fallo_ventana_simulado (test_analizador.PruebasAnalizador.test_fallo_ventana_simulado) ... ok
+test_fin_de_entrada (test_analizador.PruebasAnalizador.test_fin_de_entrada) ... ok
+test_lineas_invalidas (test_analizador.PruebasAnalizador.test_lineas_invalidas) ... ok
+test_lineas_validas (test_analizador.PruebasAnalizador.test_lineas_validas) ... ok
+test_permiso_denegado_simulado (test_analizador.PruebasAnalizador.test_permiso_denegado_simulado) ... ok
+test_presentacion_no_modifica_resultados (test_analizador.PruebasAnalizador.test_presentacion_no_modifica_resultados) ... ok
+test_ruta_interactiva (test_analizador.PruebasAnalizador.test_ruta_interactiva) ... ok
+test_seleccion_txt_y_log (test_analizador.PruebasAnalizador.test_seleccion_txt_y_log) ... ok
+test_severidad_antes_de_fecha (test_analizador.PruebasAnalizador.test_severidad_antes_de_fecha) ... ok
+test_tkinter_no_disponible_simulado (test_analizador.PruebasAnalizador.test_tkinter_no_disponible_simulado) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.042s
+
+OK

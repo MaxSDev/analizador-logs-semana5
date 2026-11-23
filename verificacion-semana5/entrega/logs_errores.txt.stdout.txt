@@ -1,0 +1,29 @@
+================================================================
+                       ANALIZADOR DE LOGS                       
+================================================================
+Archivo: logs_errores.txt
+----------------------------------------------------------------
+RESUMEN GENERAL
+----------------------------------------------------------------
+Líneas leídas                        10
+Total de eventos                      9
+Líneas malformadas                    7
+----------------------------------------------------------------
+CLASIFICACIÓN POR SEVERIDAD
+----------------------------------------------------------------
+Nivel                          Cantidad
+INFO                                  3
+WARNING                               2
+ERROR                                 2
+----------------------------------------------------------------
+DETALLES DE LÍNEAS MALFORMADAS
+----------------------------------------------------------------
+ Línea  Motivo(s)
+     2  fecha ausente
+     3  fecha inválida: formato incorrecto o fecha/hora inexistente
+     4  severidad desconocida: [DEBUG]
+     5  mensaje ausente o vacío
+     6  Línea vacía
+     8  fecha inválida: formato incorrecto o fecha/hora inexistente
+     9  severidad ausente o sin corchetes válidos; fecha inválida: formato incorrecto o fecha/hora inexistente
+================================================================
